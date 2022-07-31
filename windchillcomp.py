@@ -1,7 +1,4 @@
 
-
-
-
 # Column names and column indices to read
 columns = {'date': 0, 'time': 1, 'tempout': 2, 'windspeed': 7, 'windchill': 12}
 
